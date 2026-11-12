@@ -166,6 +166,3 @@ source ~/main.sh
 - **`fcd: fzf is not installed`:** install `fzf` (see Before Getting Started).
 - **Nothing found:** add `-a` for hidden folders, or check that the folder is not in the exclude list.
 - **Slow on big trees:** install `fd`, limit depth with `-d`, or avoid `-R`.
-
-### Author:
-* **Ali Abdullah** `@aliyabdullah` `👑`
